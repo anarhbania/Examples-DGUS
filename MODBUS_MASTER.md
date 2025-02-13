@@ -7,7 +7,7 @@
 ## D2 => slave function <=> (example: 03)
 ## D3 => slave total number of registers requested <=> (example: 01)
 ## D4 => slave timeout <=> (example: 30)
-## D5 => mode (0x00 unconditional mode, 0x01 conditional mode, do for D6 and D7) <=> (example: 01)
+## D5 => mode (0x00 unconditional mode, 0x01 do for D6 and D7) <=> (example: 01)
 ## D6 => settings (0x00 not active, 0x01 page number) <=> (example: 00)
 ## D7 => settings (0x00 not active, 0x01 page number) <=> (example: 00)
 ## D8 => display number of register <=> (example: 10)
